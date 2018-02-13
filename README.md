@@ -6,5 +6,9 @@ Code and comments are compiled in Jupyter notebook.
  
  http://jupyter.org/install
  
+ Following link will help you to convert jupyter notebook in other formats
+ 
+ https://ipython.org/ipython-doc/3/notebook/nbconvert.html
+ 
  Have fun!
 
